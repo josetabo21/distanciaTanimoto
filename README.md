@@ -1,0 +1,2 @@
+# distanciaTanimoto
+calculo distancia tanimoto 
